@@ -158,7 +158,7 @@ IMDB-Reviews-using-LSTM/
 
 * TensorFlow Documentation
 * Keras Documentation
-* IMDB Movie Review Dataset
+* IMDB Movie Review Dataset 
 * NLP and Deep Learning Research Papers
 
 ---
